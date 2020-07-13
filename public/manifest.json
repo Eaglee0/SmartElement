@@ -1,0 +1,36 @@
+{
+	"name" : "SmartElement",
+	"start_url" : "/smartelementapp.html",
+	"display" : "standalone",
+	"dir" : "ltr",
+	"short_name" : "SmartElement",
+	"lang" : "Italian",
+	"background_color" : "#ffffff",
+	"theme_color" : "#000000",
+	"description" : "la tavola periodica degli smartphone",
+	"icons" : [
+		{
+			"src": "/images/cropped-logotest1-192x192.jpg",
+			"sizes": "192x192"
+		},
+		{
+			"src": "/images/cropped-logotest1.jpg",
+			"sizes": "512x512"
+		},
+		{
+			"src": "/images/cropped-logotest1-144x144.png",
+			"sizes": "144x144"
+		},
+		{
+			"src": "/images/cropped-logotest1-192x192.png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "/images/cropped-logotest1-512x512.png",
+			"sizes": "512x512"
+		}],
+	"orientation" : "landscape",
+	"url" : "/",
+	"screenshots" : [],
+	"generated" : ""
+}
